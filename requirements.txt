@@ -13,3 +13,8 @@ packaging==23.1
 plotly==5.14.1
 tenacity==8.2.2
 Werkzeug==2.2.3
+numpy
+pandas
+scikit_learn
+plotly
+gunicorn
